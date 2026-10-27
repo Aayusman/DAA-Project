@@ -1,4 +1,4 @@
-# README
+README
 
 ## Code Environment
 *   **Language:** Python 3.x
@@ -21,7 +21,7 @@ ManagerName: Subordinate1, Subordinate2, Subordinate3
 *   **Whitespace:** Leading and trailing whitespaces around names are automatically trimmed.
 
 ### Execution Methods
-1.  **File Input (Recommended):**
+1.  **File Input:**
     ```bash
     python3 scriptname.py hierarchy.txt
     ```
